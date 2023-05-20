@@ -1,0 +1,31 @@
+Classification
+Banking/Finance
+
+Import
+Basic desc analytics
+Basic Missing Value Pipeline
+Numerical, Categorical
+
+Built Model - DT
+Fit Model
+Checked Accracy
+Predicted on Test Data 
+Submitted 
+
+1/ Different Models (Ensemble)
+1.1/ Hyperparameter Optimization with Pipeline
+2/ Different Missing Imputation 
+3/ Outlier treatment
+4/ Validation Strategy
+5/ Variable Imp
+
+
+8.50 pm - Continue
+Type "Yes" if back
+
+
+
+
+
+
+
